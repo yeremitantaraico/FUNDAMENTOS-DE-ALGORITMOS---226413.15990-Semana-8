@@ -1,0 +1,7 @@
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\bin\Debug\Ejercicios 01.exe.config
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\bin\Debug\Ejercicios 01.exe
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\bin\Debug\Ejercicios 01.pdb
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\obj\Debug\Ejercicios 01.csproj.AssemblyReference.cache
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\obj\Debug\Ejercicios 01.csproj.CoreCompileInputs.cache
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\obj\Debug\Ejercicios 01.exe
+C:\Users\yerem\Downloads\UPN\semana 08\Ejercicios Profe\Ejercicios 01\Ejercicios 01\obj\Debug\Ejercicios 01.pdb
